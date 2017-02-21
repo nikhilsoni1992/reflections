@@ -28,3 +28,5 @@ when we merge 2 branch then all commits of both branch combine together.
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+
+if there are some changes in same file then we have to do manually merging.
